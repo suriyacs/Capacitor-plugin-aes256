@@ -1,4 +1,6 @@
 #import <UIKit/UIKit.h>
+#import <CommonCrypto/CommonCrypto.h>
+
 
 //! Project version number for Plugin.
 FOUNDATION_EXPORT double PluginVersionNumber;
