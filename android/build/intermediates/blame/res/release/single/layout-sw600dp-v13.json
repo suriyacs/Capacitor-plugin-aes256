@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    }
+]

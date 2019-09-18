@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_btn_stroke_color_selector.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_btn_stroke_color_selector.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_chip_ripple_color.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_chip_ripple_color.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_tabs_icon_color_selector_colored.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_tabs_icon_color_selector_colored.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ede96b8821ea8107ce1e1a415ddf96bf/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_tabs_ripple_color.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_tabs_ripple_color.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/design_tint_password_toggle.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_bottom_nav_colored_item_tint.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_bottom_nav_colored_item_tint.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_chip_background_color.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_chip_background_color.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_chip_close_icon_tint.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_chip_close_icon_tint.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_text_btn_text_color_selector.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_text_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_btn_ripple_color.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_btn_ripple_color.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ede96b8821ea8107ce1e1a415ddf96bf/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_chip_text_color.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_chip_text_color.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_tabs_colored_ripple_color.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_tabs_colored_ripple_color.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ede96b8821ea8107ce1e1a415ddf96bf/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_btn_bg_color_selector.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_fab_ripple_color.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_fab_ripple_color.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_tabs_legacy_text_color_selector.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_tabs_legacy_text_color_selector.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_btn_text_color_selector.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/design_error.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_bottom_nav_item_tint.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_bottom_nav_item_tint.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_tabs_icon_color_selector.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_tabs_icon_color_selector.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/mtrl_btn_text_btn_ripple_color.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1d1e85f63e14191bf6868d08b201f1e4/res/color/mtrl_btn_text_btn_ripple_color.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Projects/AES256/Capacitor-plugin/cordova-plugin-aes256-encryption/android/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3b2070741ce2ef31059af6dffbaef93b/res/color/abc_tint_seek_thumb.xml"
+    }
+]
