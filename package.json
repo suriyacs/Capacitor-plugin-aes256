@@ -13,7 +13,8 @@
   "author": "Ideas2it",
   "license": "MIT",
   "dependencies": {
-    "@capacitor/core": "latest"
+    "@capacitor/cli": "^1.2.1",
+    "@capacitor/core": "^1.2.1"
   },
   "devDependencies": {
     "typescript": "^3.2.4",
